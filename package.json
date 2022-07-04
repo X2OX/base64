@@ -2,7 +2,7 @@
   "name": "@x2ox/base64",
   "main": "lib/base64.js",
   "types": "lib/base64.d.ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "description": "Why isn't there a fully functional base64 package?",
   "devDependencies": {
