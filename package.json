@@ -1,0 +1,35 @@
+{
+  "name": "@x2ox/base64",
+  "main": "lib/base64.js",
+  "types": "lib/base64.d.ts",
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "Why isn't there a fully functional base64 package?",
+  "devDependencies": {
+    "@types/jest": "^28.1.4",
+    "@types/node": "^18.0.1",
+    "@typescript-eslint/eslint-plugin": "^5.30.4",
+    "@typescript-eslint/parser": "^5.30.4",
+    "eslint": "^8.19.0",
+    "jest": "^28.1.2",
+    "ts-jest": "^28.0.5",
+    "ts-node": "^10.8.2",
+    "typescript": "^4.7.4"
+  },
+  "scripts": {
+    "test": "jest",
+    "build": "tsc"
+  },
+  "files": [
+    "lib/*"
+  ],
+  "author": {
+    "name": "Aoang",
+    "url": "https://github.com/Aoang"
+  },
+  "homepage": "https://github.com/X2OX/base64",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/X2OX/base64.git"
+  }
+}
